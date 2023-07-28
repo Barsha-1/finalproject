@@ -33,9 +33,9 @@ import { ReactText } from "react";
 //   icon: IconType;
 // }
 const data8 = {
-  "Baby girl": [
+  New: [
     {
-      img: "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/a6ab0650c708013b47180ead9ecbf798.yottaa.net/v~4b.2b7/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwee223b6c/productimages/1P543610.jpg?sw=354&sh=444&yocs=4G_4E_"
+      img: "https://images.ctfassets.net/5de70he6op10/2357qdj7DEFGasAKCk9tIo/30f2d00fd702d439b50b5f9141fc855c/121322_Upto50Off_SelectGifting_OutCatTile.jpg?w=546&q=80&fm=webp",
     },
     {
       img: "https://images.urbndata.com/is/image/Anthropologie/4130573040021_000_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
@@ -280,66 +280,66 @@ const data8 = {
       price: "8.00",
     },
   ],
-  Jackets: [
+  Toddler Girl: [
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4115657990006_005_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Mare Mare X Bomber Jackets",
-      price: "178.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw422d196b/productimages/2P902710_1.jpg?sw=354&sh=444",
+      title: "Toddler Owl Jersey Tee",
+      price: "$15.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4115237430036_009_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Greylin Kint Shirt Jackets",
-      price: "117.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwa0c70143/productimages/rtfokeotex1.jpg?sw=354&sh=444",
+      title: "Toddler Pull-On Flare Pants",
+      price: "$12.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4133402250064_020_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Eberjey Printed Pajama Set",
-      price: "148 .00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw1e7eb780/productimages/CAR_F23_PICT_TAKING_273_E%20-%20Copy.jpg?sw=354&sh=444",
+      title: "Toddler Girls Basic Denim Jacket",
+      price: "$22 .00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4114326950086_023_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Avec Les Fille Faux Coat",
-      price: "248.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw71a2a8f7/productimages/2P527010_1.jpg?sw=354&sh=444",
+      title: "Toddler Floral Print LENZING™ ECOVERO™ Dress",
+      price: "$18.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4133445000035_020_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Unreal Fur x Linda Puna Jackets",
-      price: "79.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw22515449/productimages/CS23R04H_2.jpg?sw=354&sh=444",
+      title: "Toddler Heart Water Shoes",
+      price: "$15.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4115687810002_009_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Ollari Tweet Blazer",
-      price: "98.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw8bc2c6bc/productimages/2P561110_1.jpg?sw=354&sh=444",
+      title: "Toddler Apple Jersey Dress",
+      price: "$10.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4115054590064_001_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "BLANKNYC Perfect Night Faux Leather Jackets",
-      price: "68.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw02744078/productimages/2Q261514_LV03.jpg?sw=354&sh=444",
+      title: "Toddler Strawberry Plant Jersey Tee",
+      price: "$5.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/78828522_028_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Beyond Yoga Braves The Elements Sherpa Bomer ",
-      price: "69.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe3a2d3e5/productimages/CR07250.jpg?sw=354&sh=444",
+      title: "2-Pack Bracelets",
+      price: "$6.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4133293120015_001_c2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Berando Plus Quilted Jackets",
-      price: "59.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe3a4b48c/productimages/B2237392_1.jpg?sw=354&sh=444",
+      title: "Toddler Floral Print Fleece Lined Jacket",
+      price: "$32.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4133402250078_045_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Avec les Filles Faux Leather Puffer Vest",
-      price: "9.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw7db97e42/productimages/CARACCBASICSSU23TGKG20PKMULTIPACK1.jpg?sw=354&sh=444",
+      title: "20-Pack Stretch Cotton Undies",
+      price: "$36.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4115259830010_001_b?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Bella Dahi Sherpa-Lined Faux Leather Jackets",
-      price: "63.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dweb115eb9/productimages/OF22M04H_1.jpg?sw=354&sh=444",
+      title: "Toddler Floral-Print Fashion Boots",
+      price: "$23.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/69128304_059_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Free People Movement Rocky Ridge Pullover Sweater",
-      price: "68.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw37249fe1/productimages/2N728310_LV03.jpg?sw=354&sh=444",
+      title: "Toddler 2-Piece Halloween 100% Snug Fit Cotton Pajamas",
+      price: "$10.00",
     },
   ],
   Jeans: [
@@ -404,31 +404,31 @@ const data8 = {
       price: "98.00",
     },
   ],
-  Jumpsuits: [
+  Baby Boy: [
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4123464030052_000_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "Hutch Sequin Jumpsuit",
-      price: "248.00",
+      img: "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/a6ab0650c708013b47180ead9ecbf798.yottaa.net/v~4b.2b7/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw0be97a79/productimages/1P543210.jpg?sw=354&sh=444&yocs=4G_4E_",
+      title: "Baby Zip-Front Fleece Hoodie",
+      price: "$14.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/78270386_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "Free People Movement Releve One-Piece Bodysuit",
-      price: "128.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwa0c70143/productimages/rtfokeotex1.jpg?sw=354&sh=444",
+      title: "Baby Pull-On Fleece Joggers",
+      price: "$8.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/76038421_020_b2?$an-category$&qlt=80&fit=constrain",
-      title: "Free People Movement Releve One-Piece Bodysuit",
-      price: "148 .00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw5810d046/productimages/1P334510_LV03.jpg?sw=354&sh=444",
+      title: "Baby 2-Piece Henley Bodysuit Pant Set",
+      price: "$10.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/79994067_049_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "By Anthropologie V-Neck Jumpsuit",
-      price: "118.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05f4e3b5/productimages/1P544910_LV03.jpg?sw=354&sh=444",
+      title: "Baby Grandpa Long-Sleeve Bodysuit",
+      price: "$7.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/80233208_031_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "By Anthropologie V-Neck Jumpsuit",
-      price: "79.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw143ddf97/productimages/1P334710_LV03.jpg?sw=354&sh=444",
+      title: "Baby 2-Piece Camo Bodysuit Pant Set",
+      price: "$10.00",
     },
     {
       img: "https://images.urbndata.com/is/image/Anthropologie/4115687810002_009_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
