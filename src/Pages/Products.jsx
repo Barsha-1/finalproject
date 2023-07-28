@@ -509,11 +509,11 @@ const data8 = {
     },
   ],
 
-  Shorts: [
+  Kid Boy: [
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/80434871_064_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "Beach Riot Glitter Bike Shorts",
-      price: "88.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwaad6e7da/productimages/3P296810_LV03.jpg?sw=354&sh=444",
+      title: "Kid Striped Jersey Henley",
+      price: "$10.00",
     },
     {
       img: "https://images.urbndata.com/is/image/Anthropologie/67162057_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
