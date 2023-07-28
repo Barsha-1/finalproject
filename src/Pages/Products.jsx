@@ -516,9 +516,9 @@ const data8 = {
       price: "$10.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/67162057_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "Splits59 Venus High-Waisted Rigor Skort",
-      price: "124.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw910e5270/productimages/3O961310_1.jpg?sw=354&sh=444",
+      title: "Kid Pull-On Poplin Shorts",
+      price: "$8.00",
     },
     {
       img: "https://images.urbndata.com/is/image/Anthropologie/80490774_260_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
